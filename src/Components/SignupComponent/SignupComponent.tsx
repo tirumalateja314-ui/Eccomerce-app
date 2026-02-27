@@ -2,7 +2,7 @@
 function SignupComponent() {
   return (
     <div>
-
+        intial test
     </div>
   )
 }
